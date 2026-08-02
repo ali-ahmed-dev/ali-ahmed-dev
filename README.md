@@ -1,28 +1,44 @@
-# Hi 👋, I'm Ali Ahmed
+# Ali Ahmed
 
-## Aspiring Cybersecurity Engineer | Python Developer | Future Penetration Tester
+## Aspiring Cybersecurity Engineer | Python Developer
 
 ---
 
 # 👨‍💻 About Me
 
-- 🇮🇶 From Iraq
-- 🎓 Graduate of Computer Systems Technology
+- 🇮🇶 Based in Iraq
+- 🎓 Computer Systems Technology Graduate
 - 🔐 Aspiring Cybersecurity Engineer
-- 🐍 Building practical cybersecurity-focused tools with Python
+- 🐍 Building practical cybersecurity tools with Python
 - 🌐 Currently learning Web Technologies to strengthen my cybersecurity foundation
-- 💻 Passionate about Linux, Networking, Web Security, Offensive Security, and Malware Analysis
-- 🎯 My long-term goal is to become a professional Cybersecurity Engineer and contribute to open-source security projects.
-
+- 💻 Interested in Linux, Networking, Web Security, Offensive Security, and Malware Analysis
+- 🎯 Working toward a career in cybersecurity while contributing to open-source security projects
 ---
 
 # 🚀 Featured Projects
 
+## ✅ Hash Checker
+
+**Version:** v1.0.0
+
+A command-line utility that calculates and verifies file hashes using multiple hashing algorithms, supports chunk-based processing, compares expected and calculated hashes, and exports detailed TXT and JSON reports.
+
+**Tech Stack**
+
+- Python
+- hashlib
+- pathlib
+- JSON
+
+---
+
 ## ✅ Log Analyzer
 
-A command-line log analysis tool that parses log files, extracts IP addresses, detects errors, and exports detailed TXT and JSON reports.
+**Version:** v1.0.0
 
-### Technologies
+A command-line utility that analyzes log files, extracts IP addresses, detects error entries, and exports detailed TXT and JSON reports.
+
+**Tech Stack**
 
 - Python
 - Regular Expressions
@@ -33,26 +49,15 @@ A command-line log analysis tool that parses log files, extracts IP addresses, d
 
 ## ✅ File Organizer
 
-A Python command-line application that organizes files by extension, resolves duplicate filenames, and generates detailed reports.
+**Version:** v1.0.0
 
-### Technologies
+A command-line utility that organizes files by extension, handles duplicate filenames automatically, and generates detailed TXT reports.
+
+**Tech Stack**
 
 - Python
 - pathlib
 - shutil
-
----
-
-## ✅ Hash Checker
-
-A command-line tool that calculates and verifies file hashes using multiple hashing algorithms, with chunk-based processing and detailed TXT and JSON reports.
-
-### Technologies
-
-- Python
-- hashlib
-- pathlib
-
 ---
 
 # 📌 Upcoming Projects
@@ -60,40 +65,34 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 - 📂 Duplicate File Finder
 - 🔑 Password Manager
 - 🌐 Network Scanner
-- 🛡️ Password Strength Analyzer
 
 ---
 
-# 📚 Learning Roadmap
+# 📚 Learning Progress
 
 ## ✅ Completed
 
 ### Python
-
 - Core Python
 - Standard Library
 - File Handling
-- Regular Expressions
 - Object-Oriented Programming
 - Exception Handling
+- Regular Expressions
 
 ### Algorithms
-
-- Big O Basics
+- Big O
 - Searching Algorithms
 - Sorting Algorithms
 - Hashing Fundamentals
 
 ### Git & GitHub
-
 - Repository Management
 - Branching
 - Commit History
 - Tags & Releases
 - Markdown Documentation
-
 ---
-
 ## 🔄 Currently Learning
 
 ### Web Development
@@ -104,14 +103,12 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 - DOM
 - HTTP / HTTPS
 - Fetch API
-- Web Fundamentals
 
 ---
 
 ## 📖 Next Learning Goals
 
-### Backend Development
-
+### Backend
 - Flask
 - FastAPI
 - REST APIs
@@ -119,34 +116,22 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 - JWT
 
 ### Databases
-
 - SQL
 - SQLite
-- Database Design
-- SQL Injection Prevention
 
 ### Linux
-
 - Linux Administration
 - Bash Scripting
 - Docker
-- Process Management
 
 ### Networking
-
 - TCP/IP
 - DNS
-- DHCP
-- Routing
-- Firewalls
 - Wireshark
 - Nmap
 
 ### Cybersecurity
-
 - Cryptography
-- Authentication
-- Access Control
 - Web Security
 - API Security
 - OWASP Top 10
@@ -154,26 +139,21 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 - Threat Modeling
 
 ### Ethical Hacking
-
 - Burp Suite
 - Metasploit
 - TryHackMe
 - Hack The Box
 - CTF Challenges
-- Vulnerability Assessment
 
 ### Cloud
-
 - AWS Fundamentals
 - Azure Fundamentals
 
 ### Systems Programming
-
 - C
 - Memory Management
 - Buffer Overflows
-- Secure Programming
-
+  
 ---
 
 # 🛣️ Roadmap Progress
@@ -181,7 +161,9 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 - ✅ Python
 - ✅ Algorithms
 - ✅ Git & GitHub
+
 - 🔄 Web Development
+
 - ⏳ Linux
 - ⏳ Networking
 - ⏳ SQL
@@ -191,7 +173,6 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 - ⏳ Malware Analysis
 
 ---
-
 # 📜 Planned Certifications
 
 - eJPT
@@ -200,9 +181,9 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 
 ---
 
-# 💻 Technologies
+# 💻 Tech Stack
 
-## Programming
+## Programming Languages
 
 - Python
 
@@ -212,7 +193,7 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 - GitHub
 - VS Code
 
-## Currently Learning
+## Currently Exploring
 
 - HTML
 - CSS
@@ -229,8 +210,12 @@ A command-line tool that calculates and verifies file hashes using multiple hash
 
 This GitHub profile documents my journey from learning Python to becoming a professional Cybersecurity Engineer.
 
-Each repository represents a milestone in my learning journey, following real-world development practices, clean Git history, proper documentation, and versioned releases.
+Every repository represents a milestone in my learning journey, following real-world development practices, clean Git history, proper documentation, and versioned releases.
+
+I believe in learning by building real projects, solving practical problems, and continuously improving both my skills and my code.
 
 ---
 
 # ⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to explore the repositories, follow my progress, or leave a ⭐ on any project you like.
