@@ -4,176 +4,133 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🇮🇶 Based in Iraq
 - 🎓 Computer Systems Technology Graduate
 - 🔐 Aspiring Cybersecurity Engineer
 - 🐍 Building practical cybersecurity tools with Python
-- 🌐 Currently learning Web Technologies to strengthen my cybersecurity foundation
-- 💻 Interested in Linux, Networking, Web Security, Offensive Security, and Malware Analysis
-- 🎯 Working toward a career in cybersecurity while contributing to open-source security projects
----
-
-# 🚀 Featured Projects
-
-## ✅ Hash Checker
-
-**Version:** v1.0.0
-
-A command-line utility that calculates and verifies file hashes using multiple hashing algorithms, supports chunk-based processing, compares expected and calculated hashes, and exports detailed TXT and JSON reports.
-
-**Tech Stack**
-
-- Python
-- hashlib
-- pathlib
-- JSON
+- 🌐 Currently learning Web Technologies
+- 💻 Interested in Linux, Networking, Web Security, and Malware Analysis
+- 🎯 Working toward a career in cybersecurity
 
 ---
 
-## ✅ Log Analyzer
+## 🚀 Featured Projects
 
-**Version:** v1.0.0
+### 🔍 Log Analyzer — v1.6.0
 
-A command-line utility that analyzes log files, extracts IP addresses, detects error entries, and exports detailed TXT and JSON reports.
+A Python CLI tool for analyzing log files, detecting IPs and errors, and generating TXT/JSON reports. Supports **Apache/Nginx Combined Log Format** with HTTP status and method extraction.
 
-**Tech Stack**
+**Stats:** 32 tests · CI on 6 Python versions
+**Tech:** Python, argparse, regex, pytest, GitHub Actions
 
-- Python
-- Regular Expressions
-- JSON
-- File Handling
+🔗 [View Repository](https://github.com/ali-ahmed-dev/log-analyzer)
 
 ---
 
-## ✅ File Organizer
+### 🔐 Hash Checker — v1.3.3
 
-**Version:** v1.0.0
+A Python CLI tool for calculating and verifying file hashes using MD5, SHA-1, SHA-256, and SHA-512, with chunk-based processing and TXT/JSON report generation.
 
-A command-line utility that organizes files by extension, handles duplicate filenames automatically, and generates detailed TXT reports.
+**Stats:** 16 tests · CI on 6 Python versions
+**Tech:** Python, hashlib, argparse, unittest, pytest, GitHub Actions
 
-**Tech Stack**
-
-- Python
-- pathlib
-- shutil
----
-
-# 📌 Upcoming Projects
-
-- 📂 Duplicate File Finder
-- 🔑 Password Manager
-- 🌐 Network Scanner
+🔗 [View Repository](https://github.com/ali-ahmed-dev/hash-checker)
 
 ---
 
-# 📚 Learning Progress
+### 📁 File Organizer — v1.3.0
 
-## ✅ Completed
+A Python CLI tool that organizes files by extension, safely handles duplicate filenames, and generates structured reports.
 
-### Python
-- Core Python
-- Standard Library
-- File Handling
-- Object-Oriented Programming
-- Exception Handling
-- Regular Expressions
+**Stats:** 13 tests · CI on 6 Python versions
+**Tech:** Python, shutil, pathlib, argparse, pytest, GitHub Actions
 
-### Algorithms
-- Big O
-- Searching Algorithms
-- Sorting Algorithms
+🔗 [View Repository](https://github.com/ali-ahmed-dev/file-organizer)
+
+---
+
+### 🔎 Duplicate File Finder — v1.3.0
+
+A Python CLI tool that detects duplicate files by comparing file size and SHA-256 hash, with terminal and JSON reporting.
+
+**Stats:** 20 tests · CI on 6 Python versions
+**Tech:** Python, hashlib, argparse, pytest, GitHub Actions
+
+🔗 [View Repository](https://github.com/ali-ahmed-dev/duplicate-file-finder)
+
+---
+
+## 📌 Educational Projects
+
+- 🔑 **Password Generator** — Secure password generation with customizable options
+- 🔐 **Login System** — Authentication system with password hashing
+- ✅ **Todo List** — CLI task manager
+
+---
+
+## 📚 Learning Progress
+
+### ✅ Completed
+
+**Python**
+- Core Python, Standard Library
+- File Handling, OOP
+- Exception Handling, Regex
+- Type Hints
+
+**Algorithms**
+- Big O, Searching, Sorting
 - Hashing Fundamentals
 
-### Git & GitHub
-- Repository Management
-- Branching
-- Commit History
-- Tags & Releases
-- Markdown Documentation
----
-## 🔄 Currently Learning
+**Testing & CI/CD**
+- unittest, pytest
+- GitHub Actions
 
-### Web Development
-
+**Web Development**
 - HTML
 - CSS
+
+**Git & GitHub**
+- Branching, Commits, Tags & Releases
+- Markdown Documentation
+
+---
+
+### 🔄 Currently Learning
+
+**Web Development**
 - JavaScript
 - DOM
-- HTTP / HTTPS
+- HTTP/HTTPS
 - Fetch API
 
 ---
 
-## 📖 Next Learning Goals
+### 📖 Next Learning Goals
 
-### Backend
-- Flask
-- FastAPI
-- REST APIs
-- Authentication
-- JWT
-
-### Databases
-- SQL
-- SQLite
-
-### Linux
-- Linux Administration
-- Bash Scripting
-- Docker
-
-### Networking
-- TCP/IP
-- DNS
-- Wireshark
-- Nmap
-
-### Cybersecurity
-- Cryptography
-- Web Security
-- API Security
-- OWASP Top 10
-- OSINT
-- Threat Modeling
-
-### Ethical Hacking
-- Burp Suite
-- Metasploit
-- TryHackMe
-- Hack The Box
-- CTF Challenges
-
-### Cloud
-- AWS Fundamentals
-- Azure Fundamentals
-
-### Systems Programming
-- C
-- Memory Management
-- Buffer Overflows
-  
----
-
-# 🛣️ Roadmap Progress
-
-- ✅ Python
-- ✅ Algorithms
-- ✅ Git & GitHub
-
-- 🔄 Web Development
-
-- ⏳ Linux
-- ⏳ Networking
-- ⏳ SQL
-- ⏳ Cybersecurity Fundamentals
-- ⏳ eJPT
-- ⏳ C Programming
-- ⏳ Malware Analysis
+- **Backend:** Flask, FastAPI, REST APIs
+- **Databases:** SQL, SQLite
+- **Linux:** Administration, Bash, Docker
+- **Networking:** TCP/IP, DNS, Wireshark, Nmap
+- **Cybersecurity:** Cryptography, OWASP Top 10, OSINT, Threat Modeling
+- **Ethical Hacking:** Burp Suite, Metasploit, TryHackMe, Hack The Box
+- **Systems:** C, Memory Management, Buffer Overflows
 
 ---
-# 📜 Planned Certifications
+
+## 🛣️ Roadmap Progress
+
+- ✅ Python · Algorithms · Git & GitHub · Testing & CI/CD
+- ✅ HTML · CSS
+- 🔄 JavaScript · Web Development
+- ⏳ Linux · Networking · SQL · Cybersecurity Fundamentals
+- ⏳ eJPT · C Programming · Malware Analysis
+
+---
+
+## 📜 Planned Certifications
 
 - eJPT
 - CompTIA Security+
@@ -181,41 +138,29 @@ A command-line utility that organizes files by extension, handles duplicate file
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Programming Languages
-
-- Python
-
-## Tools
-
-- Git
-- GitHub
-- VS Code
-
-## Currently Exploring
-
-- HTML
-- CSS
-- JavaScript
-- Linux
-- SQL
-- Docker
-- Networking
-- Cybersecurity
+**Languages:** Python
+**Testing:** unittest, pytest
+**CI/CD:** GitHub Actions
+**Tools:** Git, GitHub, VS Code
+**Web:** HTML, CSS (currently learning JavaScript)
+**Exploring:** Linux, SQL, Docker, Networking
 
 ---
 
-# 📈 GitHub
+## 📈 GitHub
 
-This GitHub profile documents my journey from learning Python to becoming a professional Cybersecurity Engineer.
+This profile documents my journey from learning Python to becoming a Cybersecurity Engineer.
 
-Every repository represents a milestone in my learning journey, following real-world development practices, clean Git history, proper documentation, and versioned releases.
+Every repository follows real-world practices: clean Git history, proper documentation, comprehensive tests, and versioned releases.
 
-I believe in learning by building real projects, solving practical problems, and continuously improving both my skills and my code.
+**Stats:** 7+ repositories · 81+ unit tests · 30+ releases · CI on 6 Python versions
 
 ---
 
-# ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-If you find my projects interesting, feel free to explore the repositories, follow my progress, or leave a ⭐ on any project you like.
+Feel free to explore the repositories, follow my progress, or leave a ⭐ on any project you like.
+
+**📫 Connect:** [@ali-ahmed-dev](https://github.com/ali-ahmed-dev)
