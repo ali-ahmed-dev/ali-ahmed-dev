@@ -1,6 +1,6 @@
 # Ali Ahmed
 
-## Aspiring Cybersecurity Engineer | Python Developer
+## Aspiring Cybersecurity Engineer | Backend & Security Tools Developer
 
 ---
 
@@ -9,7 +9,7 @@
 * 🇮🇶 Based in Iraq
 * 🎓 Computer Systems Technology Graduate
 * 🐍 Building practical cybersecurity tools with Python
-* 🌐 Currently expanding into Web Technologies
+* 🌐 Expanding into Backend Development (Flask)
 * 🔐 Interested in Linux, Networking, Web Security, and Malware Analysis
 * 🎯 Working toward a career in cybersecurity
 
@@ -17,7 +17,7 @@
 
 ## 🎯 Focus
 
-* **Current:** JavaScript & Web Technologies
+* **Current:** Backend Development (Flask & REST APIs)
 * **Long-term:** Malware Analysis & Reverse Engineering
 
 ---
@@ -72,11 +72,13 @@ A Python CLI tool that detects duplicate files by comparing file size and SHA-25
 
 ---
 
-## 📌 Educational Projects
+## 📌 Educational & Web Projects
 
 * 🔑 [Password Generator](https://github.com/ali-ahmed-dev/password-generator) — Secure password generation using Python's `secrets` module
 * 🔐 [Login System](https://github.com/ali-ahmed-dev/login-system) — Authentication system with SHA-256 password hashing
-* ✅ [Todo List](https://github.com/ali-ahmed-dev/todo-list) — CLI task manager with JSON persistence, search, and sorting
+* ✅ [CLI Todo List](https://github.com/ali-ahmed-dev/todo-list) — CLI task manager with JSON persistence, search, and sorting
+* 🌐 [Web To-Do List](https://github.com/ali-ahmed-dev/todo-js) — Interactive frontend app with DOM manipulation, Event Delegation, and LocalStorage
+* 📝 [Registration Form](https://github.com/ali-ahmed-dev/registration-form) — Form validation app featuring real-time input validation, Regex, and error handling
 
 ---
 
@@ -85,31 +87,27 @@ A Python CLI tool that detects duplicate files by comparing file size and SHA-25
 ### ✅ Completed
 
 **Python**
-
 * Core Python, Standard Library
 * File Handling, OOP
 * Exception Handling, Regex
 * Type Hints
 
 **Algorithms**
-
 * Big O, Searching, Sorting
 * Hashing Fundamentals
 
 **Testing & CI/CD**
-
 * unittest, pytest
 * GitHub Actions
 
 **Web**
-
-* HTML
-* CSS
-* DOM
+* HTML5, CSS3
+* JavaScript, DOM Manipulation
+* Fetch API, Async/Await, Consuming APIs
+* Form Validation & Error Handling
 * HTTP/HTTPS
 
 **Git & GitHub**
-
 * Branching, Commits, Tags & Releases
 * Markdown Documentation
 
@@ -117,16 +115,14 @@ A Python CLI tool that detects duplicate files by comparing file size and SHA-25
 
 ### 🔄 Currently Learning
 
-**Web**
-
-* JavaScript
-* Fetch API
+**Backend**
+* Flask
+* REST APIs
 
 ---
 
 ### 📖 Next Goals
 
-* **Backend:** Flask, FastAPI, REST APIs
 * **Databases:** SQL, SQLite
 * **Linux:** Administration, Bash, Docker
 * **Networking:** TCP/IP, DNS, Wireshark, Nmap
@@ -139,7 +135,7 @@ A Python CLI tool that detects duplicate files by comparing file size and SHA-25
 
 ## 🛣️ Journey
 
-**Python** ✅ → **Algorithms** ✅ → **Testing & CI/CD** ✅ → **Web** 🔄 → **Linux** ⏳ → **Networking** ⏳ → **Cybersecurity** ⏳ → **Malware Analysis** ⏳
+**Python** ✅ → **Algorithms** ✅ → **Testing & CI/CD** ✅ → **Web (Frontend)** ✅ → **Backend (Flask)** 🔄 → **SQL** ⏳ → **Linux** ⏳ → **Networking** ⏳ → **Cybersecurity** ⏳ → **Malware Analysis** ⏳
 
 ---
 
@@ -155,7 +151,7 @@ A Python CLI tool that detects duplicate files by comparing file size and SHA-25
 
 ### Currently Using
 
-**Language:** Python
+**Language:** Python, JavaScript
 
 **Testing:** unittest, pytest
 
@@ -163,11 +159,11 @@ A Python CLI tool that detects duplicate files by comparing file size and SHA-25
 
 **Tools:** Git, GitHub, VS Code
 
-**Web:** HTML, CSS, DOM, HTTP/HTTPS
+**Web:** HTML5, CSS3, DOM, Fetch API, Async/Await, LocalStorage, Form Validation
 
 ### Currently Learning
 
-**Web:** JavaScript, Fetch API
+**Backend:** Flask, REST APIs
 
 **Exploring:** Linux, SQL, Docker, Networking
 
@@ -179,12 +175,10 @@ This profile documents my journey from learning Python toward a career in Cybers
 
 My projects focus on practical development practices, including testing, documentation, versioning, maintainable code, and continuous integration.
 
-**Stats:** 7 repositories · 81 unit tests · 30+ releases · CI on 6 Python versions
+**Stats:** 9 repositories · 81 unit tests · 30+ releases · CI on 6 Python versions
 
 ---
 
 ## ⭐ Thanks for visiting my profile!
-
-Feel free to explore the repositories, follow my progress, or leave a ⭐ on any project you like.
 
 **📫 GitHub:** [@ali-ahmed-dev](https://github.com/ali-ahmed-dev)
